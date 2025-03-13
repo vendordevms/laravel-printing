@@ -20,7 +20,7 @@ class PrintJob extends Entity
     /**
      * The print job's ID.
      */
-    public int $id;
+    public  $id;
 
     /**
      * The ID of the printer the job is for.
